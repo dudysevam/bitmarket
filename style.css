@@ -112,6 +112,8 @@ border-radius:5px; }
 
 
 .q{position:absolute;
+    width:20px;
+    hight:20px;
 
 
 }
@@ -125,3 +127,5 @@ content:url("https://cdn.icon-icons.com/icons2/1458/PNG/512/phonereceiver_99743.
 width:10px;
 height:10px;
 }
+h2{
+    color:black;}
