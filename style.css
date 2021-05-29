@@ -113,14 +113,14 @@ border-radius:5px; }
 
 .q{position:absolute;
     width:150px;
-    hight:150px;
+    height:150px;
 
 
 }
 h1::before
 { 
 width:10px;
-hight: 10px;
+height: 10px;
 }
 .addres::before{ 
 content:url("https://cdn.icon-icons.com/icons2/1458/PNG/512/phonereceiver_99743.png");
